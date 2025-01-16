@@ -1,3 +1,7 @@
 @import url("../../node_modules/bootstrap/dist/css/bootstrap.css");
 @import url("_fonts.css");
 @import url("_icons.css");
+@import url("_reset.css");
+@import url("_top-nav.css");
+
+@import url("_mediaQuery.css");

@@ -1,0 +1,71 @@
+/* Fredoka Font Family */
+@font-face {
+  font-family: "Fredoka";
+  src: url(../fonts/Fredoka/Fredoka-Light.ttf) format("truetype");
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "Fredoka";
+  src: url(../fonts/Fredoka/Fredoka-Regular.ttf) format("truetype");
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Fredoka";
+  src: url(../fonts/Fredoka/Fredoka-Medium.ttf) format("truetype");
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Fredoka";
+  src: url(../fonts/Fredoka/Fredoka-SemiBold.ttf) format("truetype");
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Fredoka";
+  src: url(../fonts/Fredoka/Fredoka-Bold.ttf) format("truetype");
+  font-style: normal;
+  font-weight: 700;
+}
+
+/* Mulish Font Family */
+@font-face {
+  font-family: "Mulish";
+  src: url(../fonts/Mulish/Mulish-Light.ttf) format("truetype");
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "Mulish";
+  src: url(../fonts/Mulish/Mulish-Regular.ttf) format("truetype");
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Mulish";
+  src: url(../fonts/Mulish/Mulish-Medium.ttf) format("truetype");
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Mulish";
+  src: url(../fonts/Mulish/Mulish-SemiBold.ttf) format("truetype");
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Mulish";
+  src: url(../fonts/Mulish/Mulish-Bold.ttf) format("truetype");
+  font-style: normal;
+  font-weight: 700;
+}

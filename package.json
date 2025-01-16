@@ -1,0 +1,30 @@
+{
+  "name": "ecommerce-website",
+  "version": "1.0.0",
+  "description": "Fully responsive e-commerce website, built using HTML CSS, and JavaScript.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reza-azimifar/ecommerce-website.git"
+  },
+  "keywords": [
+    "e-commerce",
+    "website",
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "author": "Reza Azimifar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reza-azimifar/ecommerce-website/issues"
+  },
+  "homepage": "https://github.com/reza-azimifar/ecommerce-website#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "jquery": "^3.7.1"
+  }
+}
